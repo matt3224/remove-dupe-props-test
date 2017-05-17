@@ -1,9 +1,9 @@
 .button {
-    background-color: black;
+    background: black;
     color: white;
     display: block;
 }
 
 .button {
-    background-color: thistle;
+    background: thistle;
 }
