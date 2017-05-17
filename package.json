@@ -1,0 +1,8 @@
+{
+  "dev-dependencies": {
+    "clean-css-cli": "^4.1.2"
+  },
+  "scripts":{
+      "go": "cleancss --level 2 -o one.min.css one.css"
+  }
+}
